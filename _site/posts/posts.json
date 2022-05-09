@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Sungsoon Hwang Blog",
+    "description": "Welcome to our new blog, Sungsoon Hwang Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-05-09",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-05-09T05:46:45+00:00",
+    "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2022-05-09-kakakka/",
+    "title": "kakakka",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-05-09",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-05-09T05:47:20+00:00",
+    "input_file": "kakakka.knit.md"
+  }
+]
