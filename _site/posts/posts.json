@@ -32,5 +32,27 @@
     "preview": {},
     "last_modified": "2022-05-09T05:47:20+00:00",
     "input_file": "kakakka.knit.md"
+  },
+  {
+    "path": "posts/2022-05-09-basic-biostatistics/",
+    "title": "Biostatistics with R",
+    "description": "중앙보훈병원 정신건강의학과에서 강의한 내용으로, 의학 연구에 필요한 기술 통계(descriptive statistics)를 정리하고 웹 애플리케이션과 Rstudio Addins을 이용하여 실습하였습니다.",
+    "author": [
+      {
+        "name": "Jinseob Kim",
+        "url": "https://github.com/jinseob2kim"
+      }
+    ],
+    "date": "2018-11-28",
+    "categories": [
+      "lecture",
+      "statistics",
+      "r",
+      "shiny"
+    ],
+    "contents": "\n김진섭 대표는 11월\n28일(수) 중앙보훈병원\n정신건강의학과를 방문, 의학 연구에 필요한 기술 통계(descriptive\nstatistics)에 대해 강의하고 자체 제작한 웹 애플리케이션과\nRstudio\nAddins를 이용하여 실습을 진행하였습니다. 강의 내용을\n공유합니다.\n\n\n\n",
+    "preview": "https://www.jobaba.net/file/image.do?filePath=YhbLfTRb2RBaWmlnWg8493cm8rlHOSSeIQqGBWfJDxflkdgRc6ia3PT2tEO92Cj9",
+    "last_modified": "2022-05-09T06:08:13+00:00",
+    "input_file": "basic-biostatistics.knit.md"
   }
 ]

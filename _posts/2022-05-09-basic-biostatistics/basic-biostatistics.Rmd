@@ -1,0 +1,29 @@
+---
+title: "Biostatistics with R"
+description: |
+  중앙보훈병원 정신건강의학과에서 강의한 내용으로, 의학 연구에 필요한 기술 통계(descriptive statistics)를 정리하고 웹 애플리케이션과 Rstudio Addins을 이용하여 실습하였습니다. 
+preview: https://www.jobaba.net/file/image.do?filePath=YhbLfTRb2RBaWmlnWg8493cm8rlHOSSeIQqGBWfJDxflkdgRc6ia3PT2tEO92Cj9
+categories:
+  - lecture
+  - statistics
+  - r
+  - shiny
+author:
+  - name: Jinseob Kim
+    url: https://github.com/jinseob2kim
+    affiliation: Zarathu Co.,Ltd
+    affiliation_url: https://www.zarathu.com
+date: 11-28-2018
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+[김진섭](https://github.com/jinseob2kim) 대표는 11월 28일(수) [중앙보훈병원 정신건강의학과](https://seoul.bohun.or.kr/040part/01_body.php?left=26&idx=82)를 방문, 의학 연구에 필요한 기술 통계(descriptive statistics)에 대해 강의하고 자체 제작한 [웹 애플리케이션](https://jinseob2kim.shinyapps.io/BasicStat/)과 **[Rstudio Addins](https://rstudio.github.io/rstudioaddins/)**를 이용하여 실습을 진행하였습니다. 강의 내용을 공유합니다. 
+
